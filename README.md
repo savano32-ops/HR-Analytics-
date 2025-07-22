@@ -27,7 +27,7 @@ DATA PREPARATION IN POWER QUERY AND DAX
 	 
     2.Merged datasets from employee records, job roles, and satisfaction surveys.
 	 
-    3.Used DAX to calculate attrition rates, active employee count and average age.
+    3.Used DAX to calculate attrition rates, active department wise attrition,employee satisfaction metrics.
 	 
     4.Created relationships between tables for job roles, education fields, and age groups.
 	 
