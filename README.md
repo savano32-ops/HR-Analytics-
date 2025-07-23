@@ -34,3 +34,5 @@ DATA PREPARATION IN POWER QUERY AND DAX
     5.Developed custom measures for visualizing age band segmentation and gender breakdown.
 		
 POWER BI DASHBORD
+
+
